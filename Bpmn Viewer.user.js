@@ -15,7 +15,7 @@
 (function() {
     'use strict';
 
-    GM_addStyle('.canvas {border: solid 1px black; height:400px; }  ');
+    GM_addStyle('.canvas {border: solid 1px black}; height:400px; .bjs-powered-by {display:none}  ');
 
     var url = 'https://raw.githubusercontent.com'+$('#raw-url').attr('href');
 
