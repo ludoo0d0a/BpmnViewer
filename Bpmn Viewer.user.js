@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Show a source Bpmn as a diagram
 // @author       LudoO
-// @license      MIT License
+// @license      MIT
 // @match        https://github.com/*.bpmn
 // @require      https://unpkg.com/jquery@3.3.1/dist/jquery.js
 // @require      https://unpkg.com/bpmn-js@3.4.1/dist/bpmn-viewer.development.js
